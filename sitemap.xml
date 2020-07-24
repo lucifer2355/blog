@@ -1,0 +1,93 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://aoroxa.com/</loc>
+  <lastmod>2020-07-19T06:16:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/services</loc>
+  <lastmod>2020-07-04T05:01:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/portfolio</loc>
+  <lastmod>2020-07-04T05:02:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/about</loc>
+  <lastmod>2020-07-04T05:04:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/contact</loc>
+  <lastmod>2020-07-04T05:06:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/blog</loc>
+  <lastmod>2020-07-04T05:05:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/index</loc>
+  <lastmod>2020-07-19T06:16:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/index.html</loc>
+  <lastmod>2020-07-19T06:16:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/blog1-GraphQL</loc>
+  <lastmod>2020-06-15T08:54:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/blog-what-jira</loc>
+  <lastmod>2020-06-15T08:54:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/services.html</loc>
+  <lastmod>2020-07-04T05:01:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/portfolio.html</loc>
+  <lastmod>2020-07-04T05:02:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/about.html</loc>
+  <lastmod>2020-07-04T05:04:01+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/contact.html</loc>
+  <lastmod>2020-07-04T05:06:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/blog.html</loc>
+  <lastmod>2020-07-04T05:05:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/blog1-GraphQL.html</loc>
+  <lastmod>2020-06-15T08:54:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/blog-why-vue-js.html</loc>
+  <lastmod>2020-06-15T08:54:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aoroxa.com/blog-what-jira.html</loc>
+  <lastmod>2020-06-15T08:54:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+</urlset>
